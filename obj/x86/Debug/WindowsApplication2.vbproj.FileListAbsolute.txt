@@ -1,0 +1,23 @@
+D:\DT\djjeu\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+D:\DT\djjeu\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+D:\DT\djjeu\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+D:\DT\djjeu\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\DT\djjeu\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\DT\djjeu\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+D:\DT\djjeu\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+D:\DT\djjeu\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+D:\DT\djjeu\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+D:\DT\djjeu\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\Самостоятельное программирование\Служебные программы Windows\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+D:\Самостоятельное программирование\Служебные программы Windows\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+D:\Самостоятельное программирование\Служебные программы Windows\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+D:\Самостоятельное программирование\Служебные программы Windows\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+D:\Самостоятельное программирование\Служебные программы Windows\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+D:\Самостоятельное программирование\Служебные программы Windows\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+D:\Самостоятельное программирование\Служебные программы Windows\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Самостоятельное программирование\Служебные программы Windows\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\Самостоятельное программирование\Служебные программы Windows\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Самостоятельное программирование\Служебные программы Windows\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+D:\Самостоятельное программирование\Служебные программы Windows\WindowsApplication2\WindowsApplication2\bin\Release\WindowsApplication2.exe
+D:\Самостоятельное программирование\Служебные программы Windows\WindowsApplication2\WindowsApplication2\bin\Release\WindowsApplication2.pdb
+D:\Самостоятельное программирование\Служебные программы Windows\WindowsApplication2\WindowsApplication2\bin\Release\WindowsApplication2.xml

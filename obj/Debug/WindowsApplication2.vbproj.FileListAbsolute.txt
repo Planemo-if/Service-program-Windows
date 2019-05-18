@@ -1,0 +1,16 @@
+D:\Самостоятельное программирование\Служебные программы Windows\WindowsApplication2\WindowsApplication2\bin\Debug\Служебные программы Windows.exe.manifest
+D:\Самостоятельное программирование\Служебные программы Windows\WindowsApplication2\WindowsApplication2\bin\Debug\Служебные программы Windows.application
+D:\Самостоятельное программирование\Служебные программы Windows\WindowsApplication2\WindowsApplication2\bin\Debug\Служебные программы Windows.exe
+D:\Самостоятельное программирование\Служебные программы Windows\WindowsApplication2\WindowsApplication2\bin\Debug\Служебные программы Windows.pdb
+D:\Самостоятельное программирование\Служебные программы Windows\WindowsApplication2\WindowsApplication2\bin\Debug\Служебные программы Windows.xml
+D:\Самостоятельное программирование\Служебные программы Windows\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication1.Form1.resources
+D:\Самостоятельное программирование\Служебные программы Windows\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication1.Form2.resources
+D:\Самостоятельное программирование\Служебные программы Windows\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication1.Resources.resources
+D:\Самостоятельное программирование\Служебные программы Windows\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+D:\Самостоятельное программирование\Служебные программы Windows\WindowsApplication2\WindowsApplication2\obj\Debug\Служебные программы Windows.TrustInfo.xml
+D:\Самостоятельное программирование\Служебные программы Windows\WindowsApplication2\WindowsApplication2\obj\Debug\Служебные программы Windows.exe.manifest
+D:\Самостоятельное программирование\Служебные программы Windows\WindowsApplication2\WindowsApplication2\obj\Debug\Служебные программы Windows.application
+D:\Самостоятельное программирование\Служебные программы Windows\WindowsApplication2\WindowsApplication2\obj\Debug\Служебные программы Windows.exe
+D:\Самостоятельное программирование\Служебные программы Windows\WindowsApplication2\WindowsApplication2\obj\Debug\Служебные программы Windows.xml
+D:\Самостоятельное программирование\Служебные программы Windows\WindowsApplication2\WindowsApplication2\obj\Debug\Служебные программы Windows.pdb
+D:\Самостоятельное программирование\Служебные программы Windows\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
